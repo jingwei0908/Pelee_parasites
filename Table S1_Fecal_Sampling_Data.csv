@@ -1,0 +1,122 @@
+﻿Location,Fecal sampling ID,Floral association,Status in Ontario,Date of Capture,Time of Capture,Site,Date of Analysis,Time of Analysis,Species,Caste,Able to Analyze,Presence of Vairimorpha,Count of Vairimorpha,Presence of Crithidia,Count of Crithidia
+Pelee Island,ONB51,Polygonatum biflorum?,Native,5/30/2024,11:45,ON,,,bimaculatus,W,N,,0,,0
+Pelee Island,NCB04,Prunella vulgaris?,Native,5/31/2024,16:08,NC,,,vagans,Q,N,,0,,0
+Pelee Island,NCB53,Prunella vulgaris?,Native,5/31/2024,16:00,NC,,,bimaculatus,W,N,,0,,0
+Pelee Island,NCB52,Prunella vulgaris?,Native,5/31/2024,15:41,NC,,,bimaculatus,W,N,,0,,0
+Pelee Island,NCB51,Penstemon hirsutus,Native,5/31/2024,15:42,NC,5/31/2024,18:31,bimaculatus,Q,Y,N,0,N,0
+Pelee Island,NCB02,Trifolium pratense,Non-native,5/31/2024,15:57,NC,5/31/2024,18:50,bimaculatus,W,Y,N,0,N,0
+Pelee Island,NCB03,Prunella vulgaris?,Native,5/31/2024,16:03,NC,5/31/2024,19:05,bimaculatus,Q,Y,Y,1,N,0
+Pelee Island,NCB01,Trifolium pratense,Non-native,5/31/2024,15:46,NC,5/31/2024,19:17,griseocollis,W,Y,N,0,N,0
+Pelee Island,ECB01,Trifolium pratense,Non-native,6/1/2024,13:17,EC,6/1/2024,15:20,bimaculatus,W,Y,Y,3,N,0
+Pelee Island,NCB02,Trifolium pratense,Non-native,6/15/2024,15:24,NC,,,bimaculatus,M,N,,0,,0
+Pelee Island,NCB04,Potentilla,Native,6/15/2024,15:43,NC,,,bimaculatus,W,N,,0,,0
+Pelee Island,NCB05,Trifolium pratense,Non-native,6/15/2024,15:58,NC,,,vagans,W,N,,0,,0
+Pelee Island,NCB03,Trifolium pratense,Non-native,6/15/2024,15:31,NC,6/16/2024,17:48,bimaculatus,M,Y,Y,1,N,0
+Pelee Island,NCB51,Trifolium pratense,Non-native,6/15/2024,15:43,NC,6/16/2024,17:55,griseocollis,Q,Y,N,0,N,0
+Pelee Island,NCB01,Prunella vulgaris?,Native,6/15/2024,15:08,NC,6/16/2024,18:03,bimaculatus,M,Y,N,0,N,0
+Pelee Island,ECB01,Trifolium pratense,Non-native,6/16/2024,15:58,EC,,,bimaculatus,M,N,,0,,0
+Pelee Island,ONB01,Trifolium pratense,Non-native,6/17/2024,15:13,ON,6/17/2024,19:57,bimaculatus,W,Y,N,0,N,0
+Pelee Island,ONB02,Trifolium pratense,Non-native,6/17/2024,15:13,ON,,,vagans,W,N,,0,,0
+Pelee Island,ONB51,Trifolium pratense,Non-native,6/17/2024,15:07,ON,6/17/2024,20:05,vagans,W,Y,N,0,N,0
+Pelee Island,ONB52,Trifolium pratense,Non-native,6/17/2024,15:17,ON,,,bimaculatus,W,N,,0,,0
+Pelee Island,ONB51,Ratibida pinnata,Native,7/18/2024,10:52,ON,7/18/2024,16:24,griseocollis,W,Y,N,0,N,0
+Pelee Island,ECB01,Ratibida pinnata,Native,7/18/2024,15:11,EC,,,griseocollis,W,N,,0,,0
+Pelee Island,NCB01,Ratibida pinnata,Native,7/19/2024,16:08,NC,,,bimaculatus,W,N,,0,,0
+Pelee Island,NC4,Allium cernuum,Native,8/14/2024,10:23,NC,,,griseocollis,M,N,,0,,0
+Pelee Island,NC6,Allium cernuum,Native,8/14/2024,10:28,NC,8/16/2024,22:40,griseocollis,M,Y,N,0,N,0
+Pelee Island,NC9,Allium cernuum,Native,8/14/2024,10:29,NC,8/16/2024,22:35,griseocollis,W,Y,N,0,N,0
+Pelee Island,NC3,Allium cernuum,Native,8/14/2024,10:22,NC,,,griseocollis,M,N,,0,,0
+Pelee Island,NCJ01,Allium cernuum,Native,8/14/2024,10:14,NC,,,vagans,W,N,,0,,0
+Pelee Island,NC8,Allium cernuum,Native,8/14/2024,10:30,NC,,,impatiens,W,N,,0,,0
+Pelee Island,NC5,Allium cernuum,Native,8/14/2024,10:24,NC,,,griseocollis,M,N,,0,,0
+Pelee Island,NC11,Allium cernuum,Native,8/14/2024,10:34,NC,8/16/2024,22:27,impatiens,W,Y,N,0,N,0
+Pelee Island,NC7,Allium cernuum,Native,8/14/2024,10:28,NC,8/16/2024,22:13,vagans,W,Y,N,0,N,0
+Pelee Island,NC2,Allium cernuum,Native,8/14/2024,10:20,NC,8/16/2024,22:20,vagans,W,Y,N,0,N,0
+Pelee Island,NC10,Allium cernuum,Native,8/14/2024,10:35,NC,,,griseocollis,M,N,,0,,0
+Pelee Island,ONJ5,Allium cernuum,Native,8/14/2024,12:11,ON,8/16/2024,22:31,griseocollis,W,Y,N,0,N,0
+Pelee Island,ONB01,Allium cernuum,Native,8/14/2024,11:58,ON,8/16/2024,22:45,griseocollis,W,Y,N,0,N,0
+Pelee Island,ONB03,Allium cernuum,Native,8/14/2024,12:07,ON,8/16/2024,22:24,vagans,W,Y,N,0,N,0
+Pelee Island,ONJ3,Allium cernuum,Native,8/14/2024,12:04,ON,8/16/2024,22:18,vagans,W,Y,N,0,N,0
+Pelee Island,ONB04,Allium cernuum,Native,8/14/2024,12:14,ON,,,vagans,W,N,,0,,0
+Pelee Island,ONB05,Allium cernuum,Native,8/14/2024,12:18,ON,,,vagans,W,N,,0,,0
+Pelee Island,ONB02,Allium cernuum,Native,8/14/2024,12:03,ON,,,griseocollis,M,N,,0,,0
+Pelee Island,ONJ07,Allium cernuum,Native,8/14/2024,12:15,ON,,,vagans,W,N,,0,,0
+Pelee Island,ECJ01,Allium cernuum,Native,8/15/2024,12:25,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ECB03,Allium cernuum,Native,8/15/2024,12:32,EC,8/16/2024,22:00,griseocollis,W,Y,N,0,N,0
+Pelee Island,ECB04,Allium cernuum,Native,8/15/2024,12:34,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ECB10,Allium cernuum,Native,8/15/2024,12:53,EC,,,fervidus,M,N,,0,,0
+Pelee Island,ECB08,Allium cernuum,Native,8/15/2024,12:48,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ECB05,Allium cernuum,Native,8/15/2024,12:36,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ECB02,Allium cernuum,Native,8/15/2024,12:29,EC,,,griseocollis,W,N,,0,,0
+Pelee Island,ECB09,Trifolium pratense,Non-native,8/15/2024,12:50,EC,8/16/2024,22:06,vagans,W,Y,N,0,N,0
+Pelee Island,ECB07,Allium cernuum,Native,8/15/2024,12:41,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ECB06,Allium cernuum,Native,8/15/2024,12:38,EC,,,griseocollis,M,N,,0,,0
+Pelee Island,ONB01,Helianthus divaricatus,Native,9/3/2024,15:51,ON,,,griseocollis,M,N,,0,,0
+Pelee Island,ONB02,Helianthus divaricatus,Native,9/3/2024,15:52,ON,9/3/2024,19:36,griseocollis,M,Y,N,0,Y,4
+Pelee Island,ONB04,Helianthus divaricatus,Native,9/3/2024,15:56,ON,,,griseocollis,M,N,,0,,0
+Pelee Island,ONB03,Helianthus divaricatus,Native,9/3/2024,15:56,ON,,,griseocollis,M,N,,0,,0
+Pelee Island,NCB01,Solidago sp.,Native,9/4/2024,10:43,NC,,,impatiens,M,N,,0,,0
+Guelph Area,A1,Nest searching,-,5/19/2024,9:35,Riverside Park,5/20/2024,13:55,impatiens,Q,Y,N,0,N,0
+Guelph Area,C1,Lonicera,?,5/20/2024,9:22,Belwood 5th Line,5/20/2024,13:25,rufocinctus,Q,Y,N,0,N,0
+Guelph Area,C2,Lonicera,?,5/20/2024,9:24,Belwood 5th Line,5/20/2024,13:42,impatiens,Q,Y,N,0,N,0
+Guelph Area,C3,Lonicera,?,5/20/2024,9:35,Belwood 5th Line,5/20/2024,13:47,impatiens,Q,Y,N,0,N,0
+Guelph Area,A1,Elaeagnus umbellata,Non-native,5/21/2024,9:24,Guelph Lake CA,5/21/2024,13:46,impatiens,Q,Y,N,0,N,0
+Guelph Area,A2,Nest searching,-,5/21/2024,9:26,Guelph Lake CA,5/21/2024,13:56,impatiens,Q,Y,N,0,N,0
+Guelph Area,A3,Elaeagnus umbellata,Non-native,5/21/2024,9:30,Guelph Lake CA,5/21/2024,14:21,griseocollis,Q,Y,N,0,N,0
+Guelph Area,A4,Elaeagnus umbellata,Non-native,5/21/2024,9:34,Guelph Lake CA,5/21/2024,NA,impatiens,Q,N,,0,,0
+Guelph Area,A5,Elaeagnus umbellata,Non-native,5/21/2024,9:45,Guelph Lake CA,5/21/2024,NA,impatiens,Q,N,,0,,0
+Guelph Area,C1,Elaeagnus umbellata,Non-native,5/21/2024,9:20,Guelph Lake CA,5/21/2024,14:59,impatiens,Q,Y,N,0,N,0
+Guelph Area,C2,Elaeagnus umbellata,Non-native,5/21/2024,9:24,Guelph Lake CA,5/21/2024,15:10,impatiens,Q,Y,N,0,N,0
+Guelph Area,C3,Elaeagnus umbellata,Non-native,5/21/2024,9:27,Guelph Lake CA,5/21/2024,15:23,impatiens,Q,Y,N,0,N,0
+Guelph Area,C4,Elaeagnus umbellata,Non-native,5/21/2024,9:29,Guelph Lake CA,5/21/2024,15:32,impatiens,Q,Y,N,0,N,0
+Guelph Area,C5,Elaeagnus umbellata,Non-native,5/21/2024,9:33,Guelph Lake CA,5/21/2024,15:41,vagans,Q,Y,N,0,N,0
+Guelph Area,C6,Elaeagnus umbellata,Non-native,5/21/2024,9:40,Guelph Lake CA,5/21/2024,14:32,impatiens,Q,Y,N,0,N,0
+Guelph Area,A1,Symphytum officinale,Non-native,06/09/2024,9:06,Belwood 5th Line,06/09/2024,11:57,bimaculatus,W,Y,N,0,N,0
+Guelph Area,A2,Symphytum officinale,Non-native,06/09/2024,9:11,Belwood 5th Line,06/09/2024,12:08,bimaculatus,W,Y,N,0,N,0
+Guelph Area,A3,Symphytum officinale,Non-native,06/09/2024,9:14,Belwood 5th Line,06/09/2024,12:35,borealis,W,Y,N,0,N,0
+Guelph Area,A4,Symphytum officinale,Non-native,06/09/2024,9:19,Belwood 5th Line,06/09/2024,12:52,bimaculatus,Q,Y,N,0,N,0
+Guelph Area,A5,Symphytum officinale,Non-native,06/09/2024,9:24,Belwood 5th Line,06/09/2024,12:24,bimaculatus,W,Y,N,0,N,0
+Guelph Area,C1,Symphytum officinale,Non-native,06/09/2024,9:06,Belwood 5th Line,06/09/2024,NA,bimaculatus,W,N,,0,N,0
+Guelph Area,C2,Symphytum officinale,Non-native,06/09/2024,9:10,Belwood 5th Line,06/09/2024,13:04,bimaculatus,Q,Y,Y,3,Y,2
+Guelph Area,C3,Symphytum officinale,Non-native,06/09/2024,9:16,Belwood 5th Line,06/09/2024,14:06,bimaculatus,W,Y,N,0,N,0
+Guelph Area,C4,Symphytum officinale,Non-native,06/09/2024,9:21,Belwood 5th Line,06/09/2024,14:18,borealis,Q,Y,N,0,N,0
+Guelph Area,C5,Symphytum officinale,Non-native,06/09/2024,9:24,Belwood 5th Line,06/09/2024,14:32,perplexus,W,Y,N,0,N,0
+Guelph Area,C6,Robinia pseudoacacia,Non-native,06/09/2024,9:26,Belwood 5th Line,06/09/2024,14:42,rufocinctus,Q,Y,N,0,N,0
+Guelph Area,A1,Rubus,Native,06/10/2024,9:28,Riverside Park,06/10/2024,11:50,perplexus,W,Y,N,0,N,0
+Guelph Area,A2,Rubus,Native,06/10/2024,9:38,Riverside Park,06/10/2024,12:05,bimaculatus,W,Y,N,0,N,0
+Guelph Area,A3,On ground,-,06/10/2024,9:44,Riverside Park,06/10/2024,12:17,perplexus,W,Y,N,0,N,0
+Guelph Area,C1,Vicia cracca,Non-native,06/10/2024,9:24,Riverside Park,06/10/2024,NA,bimaculatus,W,N,,0,N,0
+Guelph Area,A1,Vicia cracca,Non-native,06/10/2024,9:29,Guelph Lake CA,06/10/2024,12:52,bimaculatus,W,Y,N,0,N,0
+Guelph Area,A2,Vicia cracca,Non-native,06/10/2024,9:34,Guelph Lake CA,06/10/2024,13:02,bimaculatus,W,Y,N,0,N,0
+Guelph Area,A3,Vicia cracca,Non-native,06/10/2024,9:43,Guelph Lake CA,06/10/2024,13:20,impatiens,Q,Y,Y,6,Y,2
+Guelph Area,C1,Rubus,Native,06/10/2024,9:22,Guelph Lake CA,06/10/2024,NA,perplexus,W,N,,0,,0
+Guelph Area,C2,Rubus,Native,06/10/2024,9:35,Guelph Lake CA,06/10/2024,13:30,bimaculatus,W,Y,N,0,N,0
+Guelph Area,C3,Rubus,Native,06/10/2024,9:36,Guelph Lake CA,06/10/2024,15:16,bimaculatus,Q,Y,N,0,N,0
+Guelph Area,C4,Rubus,Native,06/10/2024,9:42,Guelph Lake CA,06/10/2024,15:21,griseocollis,W,Y,N,0,N,0
+Guelph Area,C1,Flying,-,7/23/2024,10:20,Belwood 5th Line,7/23/2024,13:04,bimaculatus,W,Y,Y,1,N,0
+Guelph Area,C2,Vicia cracca,Non-native,7/23/2024,10:32,Belwood 5th Line,7/23/2024,NA,bimaculatus,M,N,,0,,0
+Guelph Area,A1,Securigera varia,Non-native,7/25/2024,9:14,Guelph Lake CA,7/25/2024,NA,impatiens,W,N,,0,,0
+Guelph Area,A2,Monarda,Native,7/25/2024,9:31,Guelph Lake CA,7/25/2024,12:07,perplexus,W,Y,N,0,N,0
+Guelph Area,A3,Securigera varia,Non-native,7/25/2024,9:36,Guelph Lake CA,7/25/2024,12:18,impatiens,W,Y,N,0,N,0
+Guelph Area,A4,Monarda,Native,7/25/2024,9:38,Guelph Lake CA,7/25/2024,NA,bimaculatus,M,N,,0,,0
+Guelph Area,C1,Securigera varia,Non-native,7/25/2024,9:18,Guelph Lake CA,7/25/2024,12:53,impatiens,W,Y,Y,2,Y,1
+Guelph Area,C2,Securigera varia,Non-native,7/25/2024,9:20,Guelph Lake CA,7/25/2024,13:02,impatiens,W,Y,N,0,N,0
+Guelph Area,C3,Securigera varia,Non-native,7/25/2024,9:24,Guelph Lake CA,7/25/2024,NA,impatiens,W,N,,0,,0
+Guelph Area,C4,Securigera varia,Non-native,7/25/2024,9:32,Guelph Lake CA,7/25/2024,13:16,impatiens,W,Y,N,0,N,0
+Guelph Area,C5,Securigera varia,Non-native,7/25/2024,9:34,Guelph Lake CA,7/25/2024,NA,impatiens,W,N,,0,,0
+Guelph Area,C6,Securigera varia,Non-native,7/25/2024,9:36,Guelph Lake CA,7/25/2024,13:24,impatiens,W,Y,N,0,N,0
+Guelph Area,D1,Sonchus,Non-native,8/21/2024,9:23,Belwood 5th Line,8/21/2024,11:37,borealis,W,Y,N,0,N,0
+Guelph Area,D2,Trifolium pratense,Non-native,8/21/2024,9:42,Belwood 5th Line,8/21/2024,11:49,impatiens,W,Y,Y,1,N,0
+Guelph Area,A1,Solidago,Native,8/22/2024,9:12,Riverside Park,8/22/2024,11:53,impatiens,W,Y,N,0,N,0
+Guelph Area,A2,Echinacea purpurea,Native,8/22/2024,9:18,Riverside Park,8/22/2024,12:03,impatiens,W,Y,N,0,N,0
+Guelph Area,A3,Solidago,Native,8/22/2024,9:23,Riverside Park,8/22/2024,12:18,impatiens,M,Y,Y,2,N,0
+Guelph Area,D1,Solidago,Native,8/22/2024,9:12,Riverside Park,8/22/2024,12:29,impatiens,M,Y,N,0,N,0
+Guelph Area,D2,Solidago,Native,8/22/2024,9:17,Riverside Park,8/22/2024,12:46,impatiens,M,Y,N,0,N,0
+Guelph Area,D3,Solidago,Native,8/22/2024,9:18,Riverside Park,8/22/2024,NA,impatiens,W,N,,,,
+Guelph Area,D4,Impatiens capensis,Non-native,8/22/2024,9:29,Riverside Park,8/22/2024,12:56,impatiens,W,Y,N,0,N,0
+Guelph Area,D5,Solidago,Native,8/22/2024,9:36,Riverside Park,8/22/2024,NA,impatiens,M,N,,,,
+Guelph Area,A1,Pycnanthemum virginianum,Native,8/23/2024,9:47,Guelph Lake CA,8/23/2024,NA,griseocollis,W,N,,,,
+Guelph Area,A2,Vicia cracca,Non-native,8/23/2024,9:55,Guelph Lake CA,8/23/2024,12:06,impatiens,W,Y,N,0,N,0
+Guelph Area,D1,Solidago,Native,8/23/2024,9:28,Guelph Lake CA,8/23/2024,12:15,impatiens,W,Y,N,0,N,0
+Guelph Area,D2,Asteracaeae,?,8/23/2024,9:32,Guelph Lake CA,8/23/2024,NA,impatiens,M,N,,,,
+Guelph Area,D3,Origanum vulgare,Non-native,8/23/2024,9:54,Guelph Lake CA,8/23/2024,12:27,perplexus,W,Y,Y,3,N,0
